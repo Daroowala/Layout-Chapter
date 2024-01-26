@@ -8,7 +8,6 @@
   width: 80px;
   height: 80px;
   background-color: greenyellow;
-  text-align: center;
 }
 .box2 {
   width: 80px;
@@ -33,4 +32,35 @@
   height: 80px;
   background-color: chocolate;
   text-align: center;
+}
+.con2{
+  border: 3px solid red;
+  width: 150px;
+  height: 150px;
+  background-color: yellow;
+}
+.con3{
+position: absolute;
+top: 326px;
+left: 57px;
+}
+.con4{
+position: absolute;
+top: 29px;
+left: 49px;
+}
+.con5{
+position: absolute;
+top: 8px;
+left: 304px;
+}
+.con6{
+position: absolute;
+top: 188px;
+left: 49px;
+}
+.con7{
+position: absolute;
+top: 167px;
+left: 304px;
 }
